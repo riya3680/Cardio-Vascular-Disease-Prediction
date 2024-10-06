@@ -1,0 +1,12 @@
+[ 2024-05-02 12:03:55,090 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 12:03:55,092 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 12:03:55,136 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:03:55] "GET / HTTP/1.1" 200 -
+[ 2024-05-02 12:03:55,192 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:03:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 12:03:55,194 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:03:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 12:03:58,727 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:03:58] "GET /register.html HTTP/1.1" 200 -
+[ 2024-05-02 12:03:58,743 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:03:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 12:04:04,639 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:04:04] "[33mPOST /register HTTP/1.1[0m" 404 -
+[ 2024-05-02 12:04:09,161 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:04:09] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 12:04:09,179 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:04:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 12:04:09,180 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 12:04:09] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2024-05-02 12:04:49,330 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

@@ -1,0 +1,22 @@
+[ 2024-04-24 15:04:35,121 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-24 15:04:35,128 ] 187 werkzeug - INFO -  * Debugger PIN: 128-944-936
+[ 2024-04-24 15:04:39,480 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:04:39] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-04-24 15:04:39,637 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:04:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:08:32,730 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:08:32] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-04-24 15:08:32,821 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:08:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:09:09,274 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:09:09] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-24 15:09:09,294 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:09:09] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:09:09,295 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:09:09] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:09:09,321 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:09:09] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:09:09,345 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:09:09] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:10:51,242 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:10:51] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-24 15:10:51,307 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:10:51] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:10:51,308 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:10:51] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:10:51,324 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:10:51] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:10:51,338 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:10:51] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:11:02,628 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:11:02] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-24 15:11:02,643 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:11:02] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:11:02,644 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:11:02] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:11:02,651 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:11:02] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:11:02,665 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2024 15:11:02] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-24 15:11:18,709 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

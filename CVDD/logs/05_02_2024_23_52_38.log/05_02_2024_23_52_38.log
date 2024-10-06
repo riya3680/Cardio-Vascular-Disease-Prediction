@@ -1,0 +1,14 @@
+[ 2024-05-02 23:52:39,350 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 23:52:39,352 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 23:52:39,432 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:52:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:52:50,758 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:52:50] "[35m[1mPOST /register.html HTTP/1.1[0m" 500 -
+[ 2024-05-02 23:52:50,764 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:52:50] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:52:50,764 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:52:50] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:52:50,801 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:52:50] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:52:50,816 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:52:50] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:55:11,383 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:55:11] "[35m[1mPOST /register.html HTTP/1.1[0m" 500 -
+[ 2024-05-02 23:55:11,400 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:55:11] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:55:11,402 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:55:11] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:55:11,415 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:55:11] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:55:11,440 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 23:55:11] "[36mGET /register.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-02 23:55:38,543 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

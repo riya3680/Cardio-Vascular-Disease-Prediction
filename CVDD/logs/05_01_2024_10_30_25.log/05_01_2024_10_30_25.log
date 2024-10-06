@@ -1,0 +1,18 @@
+[ 2024-05-01 10:30:26,715 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-01 10:30:26,718 ] 187 werkzeug - INFO -  * Debugger PIN: 128-944-936
+[ 2024-05-01 10:30:26,781 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:30:26] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:30:26,818 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:30:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 10:30:28,524 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:30:28] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:30:49,180 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:30:49] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:30:49,192 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:30:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 10:43:47,979 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:47] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:43:48,049 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:48] "[33mGET /static/heartprblm.jpg HTTP/1.1[0m" 404 -
+[ 2024-05-01 10:43:48,050 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 10:43:51,090 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:51] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:43:52,993 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:52] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:43:53,009 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 10:43:53,010 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:43:53] "[33mGET /static/heartprblm.jpg HTTP/1.1[0m" 404 -
+[ 2024-05-01 10:44:14,670 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:44:14] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 10:44:14,686 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:44:14] "[33mGET /static/heartprblm.jpg HTTP/1.1[0m" 404 -
+[ 2024-05-01 10:44:14,687 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:44:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 10:45:42,850 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

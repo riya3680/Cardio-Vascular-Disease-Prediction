@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>prediction</title>
+
+
+    <!--font awesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <!--css file link-->
+
+    <style >
+
+        .header{
+        padding:3rem 9% ;
+        position: fixed;
+        top: 0; left: 0;right:0 ;
+        z-index: 1000;
+        box-shadow: 0 .5rem 1.5rem rgba(0,0,0, .1) ;
+        display:flex ;
+        align-items: center;
+        justify-content: space-between;
+        background: #fff;
+        }
+        .header .logo{
+        font-size: 3rem;
+        color: rgb(177,44,58)
+        }
+
+        .header .logo i{
+        color: rgb(177,44,58);
+        }
+
+        .header .navbar a{
+        font-size:1.2rem;
+        color: rgb(240, 135, 145);
+        margin-left:2rem ;
+        }
+
+        .header .navbar a:hover{
+        color: rgb(100, 138, 234);
+        }
+
+
+        .login .row{
+        display:flex;
+        flex-direction: column;
+        font-size: 20px;
+        padding-top:10rem;
+        padding-right:10rem;
+        background-color:rgb(243,208,208);
+
+        }
+        .login .row h1{
+        padding-left:20rem;}
+        .form{
+        padding-left: 40rem;
+        background-color:rgb(243,208,208);
+        }
+        .form h2{
+        padding-top:3rem;
+        }
+        .form label{
+        font-size:20px;
+        margin-right:40px;
+        color: rgb(232,23,23);
+            padding-left:0rem;
+        }
+
+
+    </style>
+</head>
+<body>
+<!--header section -->
+<header class="header">
+    <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> Care4U</a>
+    <nav class="navbar">
+        <a href="index.html">home</a>
+        <a href="about.html">About Care4U</a>
+        <a href="#cvd.html">CVD</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div id="menu-btn" class="fas fa-bars"></div>
+</header>
+<!--header section end-->
+
+<!--form for prediction-->
+<div class="login">
+  <div class="row">
+ <h1><b> CARDIO VASCULAR DIEASE PREDICTION </b> </h1>
+  </div>
+</div>
+
+
+
+    <div class="form">
+     <form action="{{ url_for('predict')}}" method="post">
+  <h2>
+      <legend>ENTER THE PARAMETERS </legend>
+  </h2>
+              <br>
+  <div class="mb-3">
+      <label class="form-label">Age</label>
+      <input type="number" name="age" size="20">
+     <br>
+     <br>
+
+  </div>
+  <div class="mb-3">
+      <label class="form-label">Gender</label>
+      <select class="form-control" name="gender" placeholder="Enter you Gender" required>
+          <option class="placeholder" selected disabled value="">Select your Gender</option>
+          <option value="male">
+              MALE
+          </option>
+          <option value="female">
+              FEMALE
+          </option>
+      </select>
+  </div>
+                <br>
+     <br>
+
+   <div class="mb-3">
+      <label for="cp" class="form-label">Chest Pain Intensity</label>
+       <select name="cp" id="cp">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+           <option value="3">3</option>
+       </select>
+
+
+  </div>
+                <br>
+     <br>
+
+    <div class="mb-3">
+      <label class="form-label">Resting BP</label>
+      <input type="number" name="trestbps" size="10">
+
+  </div>
+                <br>
+     <br>
+
+      <div class="mb-3">
+      <label class="form-label">Cholesterol Level</label>
+      <input type="number" name="chol">
+
+  </div>
+                <br>
+     <br>
+
+      <div class="mb-3">
+      <label class="form-label">Fasting Blood Sugar</label>
+      <input type="radio" name="fbs" value="0">0
+          <input type="radio" name="fbs" value="1">1
+
+  </div>
+                <br>
+     <br>
+
+     <div class="mb-3">
+      <label class="form-label">Resting ECG</label>
+      <select name="restecg" id="restecg">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+       </select>
+  </div>
+                <br>
+     <br>
+
+     <div class="mb-3">
+      <label class="form-label">Maximum Heart Rate</label>
+      <input type="number" name="thalach">
+
+  </div>
+                <br>
+     <br>
+
+    <div class="mb-3">
+      <label class="form-label">Exercise Induced Angina</label>
+      <input type="radio" name="exang" value="0">0
+        <input type="radio" name="exang" value="1">1
+
+
+  </div>
+                <br>
+     <br>
+
+  <div class="mb-3">
+      <label class="form-label">Old peak</label>
+      <input type="number" name="oldpeak">
+
+  </div>
+                <br>
+     <br>
+
+   <div class="mb-3">
+      <label class="form-label">Slope</label>
+      <input type="number" name="slope">
+  </div>
+                <br>
+     <br>
+
+   <div class="mb-3">
+      <label class="form-label">CA Flouroscopy</label>
+      <select name="ca" id="ca">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+           <option value="3">3</option>
+          <option value="4">4</option>
+       </select>
+
+  </div>
+                <br>
+     <br>
+
+ <div class="mb-3">
+      <label class="form-label">Thalassemia</label>
+      <select name="thal" id="thal">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+           <option value="3">3</option>
+       </select>
+  </div>
+                <br>
+     <br>
+
+     <div class="mb-3">
+      <input class="btn btn-secondary mt-4" type="submit" value="Predict" required />
+  </div>
+             <br>
+         </form>
+    </div>
+
+        <br>
+
+
+</body>
+</html>

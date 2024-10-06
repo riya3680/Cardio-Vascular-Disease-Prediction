@@ -1,0 +1,9 @@
+[ 2024-05-02 22:41:31,958 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 22:41:31,960 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 22:41:31,998 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:41:31] "[32mPOST /register HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:41:32,083 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:41:32] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:41:32,134 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:41:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:43:07,515 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:07] "[32mPOST /index.html HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:43:07,522 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:07] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:43:07,535 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:43:44,595 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

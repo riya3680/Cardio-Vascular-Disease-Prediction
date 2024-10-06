@@ -1,0 +1,41 @@
+[ 2024-05-02 22:43:47,608 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 22:43:47,611 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 22:43:52,244 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:52] "[32mPOST /index.html HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:43:52,254 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:52] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:43:52,272 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:52] "[32mGET /script.js HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:43:52,277 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:52] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:43:52,298 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:43:58,153 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:58] "GET /contact.html HTTP/1.1" 200 -
+[ 2024-05-02 22:43:58,168 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:43:58,193 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:43:58] "[36mGET /static/images/bg4.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:01,245 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:01] "GET /base.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:01,263 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:01,266 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:02,540 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:02] "GET /about.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:02,552 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:02,564 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:02] "[36mGET /static/images/aboutus.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:02,569 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:02] "[36mGET /static/images/doc1.png HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:02,570 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:02] "[36mGET /static/images/doc2.jpeg HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:02,570 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:02] "[36mGET /static/images/doc3.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:04,495 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:04] "GET /base.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:04,516 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:04,517 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:05,802 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:05] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:05,816 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:05,818 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:05] "[32mGET /script.js HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:44:05,825 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:05] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:07,956 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:07] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:17,259 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:17] "GET / HTTP/1.1" 200 -
+[ 2024-05-02 22:44:17,391 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:17,391 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:18,590 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:18] "GET / HTTP/1.1" 200 -
+[ 2024-05-02 22:44:18,821 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:18,822 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:25,931 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:25] "GET /register.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:25,943 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:39,176 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:39] "[32mPOST /register HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:44:39,183 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:39] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:39,198 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-02 22:44:39,202 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:39] "[32mGET /script.js HTTP/1.1[0m" 302 -
+[ 2024-05-02 22:44:39,208 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 22:44:39] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-02 22:44:54,771 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

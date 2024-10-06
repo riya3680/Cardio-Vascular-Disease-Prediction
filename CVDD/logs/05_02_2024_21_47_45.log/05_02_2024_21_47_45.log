@@ -1,0 +1,30 @@
+[ 2024-05-02 21:47:46,467 ] 187 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.193:5000
+[ 2024-05-02 21:47:46,468 ] 187 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-05-02 21:47:46,469 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:40:55,693 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:41:29,662 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:43:44,917 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:44:55,007 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:45:27,585 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:45:34,132 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:46:05,913 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:46:41,971 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:56:12,709 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:56:41,087 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 22:58:31,399 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:03:11,096 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:03:33,291 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:11:09,455 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:11:27,560 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:11:52,005 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:12:04,837 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:14:03,806 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:19:04,573 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:19:33,900 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:20:57,773 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:21:05,437 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:21:49,823 ] 187 werkzeug - INFO -  * Restarting with stat
+[ 2024-05-02 23:22:03,688 ] 187 werkzeug - INFO -  * Restarting with stat

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>prediction</title>
+
+
+    <!--font awesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <!--css file link-->
+    <link rel="stylesheet" href="/static/style.css">
+
+    <style>
+        .analysis{
+        background-color:rgb(243,208,208);}
+        h1 {padding-top: 15rem;
+            font-size: 60px;
+        }
+        h2{
+        padding-top:3rem;
+        font-size:45px;
+        color:rgb(0,0,0);
+            padding-bottom: 3rem;
+        }
+   .center{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   height:40%;
+   width:50%;
+   }
+        .btn{
+        }
+    </style>
+</head>
+<body>
+<!--header section -->
+<header class="header">
+    <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> Care4U</a>
+    <nav class="navbar">
+        <a href="index.html">home</a>
+        <a href="#about iCare">About Care4U</a>
+        <a href="#about cardio vascular disease">CVD</a>
+        <a href="contact.html">Contact</a>
+        <a href="#">Profile</a>
+    </nav>
+    <div id="menu-btn" class="fas fa-bars"></div>
+</header>
+<div class="analysis">
+   <center>
+       <h1>RESULT</h1>
+       {%if data == 0 %}
+       <h2>PERSON IS SAFE</h2>
+
+       <img src="https://th.bing.com/th/id/OIP.5rtLH5YCNMEiHz4XRBPVeQHaGO?rs=1&pid=ImgDetMain" alt="" class="center">
+       {%else%}
+       <h2>PERSON HAS HEART DISEASE</h2>
+       <img src="https://th.bing.com/th/id/OIP.HtJ69FjR1DwwmNfLgy8aIwHaH_?w=187&h=202&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="" class="center">
+
+       {%endif%}
+   </center>
+    <a href="index.html" class="btn">  HOME PAGE  <span class="fas fa-chevron-right"></span></a>
+</div>
+</body>
+</html>

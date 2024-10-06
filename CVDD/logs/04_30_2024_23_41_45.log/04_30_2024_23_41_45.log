@@ -1,0 +1,16 @@
+[ 2024-04-30 23:41:46,168 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-30 23:41:46,170 ] 187 werkzeug - INFO -  * Debugger PIN: 128-944-936
+[ 2024-04-30 23:41:53,338 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:53] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-30 23:41:53,399 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:53] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:53,403 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:53] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:53,415 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:53] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:56,483 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:56] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-30 23:41:56,495 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:56] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:56,497 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:56] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:56,508 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:56] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:56,521 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:56] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:59,975 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:59] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-30 23:41:59,989 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:59] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:41:59,992 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:41:59] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:42:00,001 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:42:00] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:42:00,016 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:42:00] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

@@ -1,0 +1,4 @@
+[ 2024-05-02 11:44:25,270 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 11:44:25,272 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 11:44:26,184 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 11:44:26] "[33mPOST /register HTTP/1.1[0m" 404 -
+[ 2024-05-02 11:44:28,768 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 11:44:28] "[33mPOST /register HTTP/1.1[0m" 404 -

@@ -1,0 +1,3 @@
+[ 2024-05-02 12:05:06,920 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 12:05:06,922 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 12:05:33,291 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

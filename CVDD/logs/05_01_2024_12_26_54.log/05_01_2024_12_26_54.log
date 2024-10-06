@@ -1,0 +1,14 @@
+[ 2024-05-01 12:26:55,803 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-01 12:26:55,807 ] 187 werkzeug - INFO -  * Debugger PIN: 128-944-936
+[ 2024-05-01 12:26:56,764 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:26:56] "GET / HTTP/1.1" 200 -
+[ 2024-05-01 12:26:57,151 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:26:57] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2024-05-01 12:26:57,336 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:26:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 12:27:01,695 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:01] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-01 12:27:01,716 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 12:27:01,718 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:01] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2024-05-01 12:27:02,956 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:02] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 12:27:02,973 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 12:27:33,580 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:33] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-05-01 12:27:33,592 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-01 12:27:33,594 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:33] "GET /static/images/heartprblm.jpg HTTP/1.1" 200 -
+[ 2024-05-01 12:27:55,520 ] 187 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 12:27:55] "[33mGET /index.html HTTP/1.1[0m" 404 -

@@ -1,0 +1,6 @@
+[ 2024-05-02 11:46:22,459 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-02 11:46:22,461 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-02 11:46:25,361 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 11:46:25] "[33mPOST /register HTTP/1.1[0m" 404 -
+[ 2024-05-02 11:46:28,476 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 11:46:28] "[33mPOST /register HTTP/1.1[0m" 404 -
+[ 2024-05-02 11:47:45,037 ] 187 werkzeug - INFO - 127.0.0.1 - - [02/May/2024 11:47:45] "[33mPOST /register HTTP/1.1[0m" 404 -
+[ 2024-05-02 11:50:44,714 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading

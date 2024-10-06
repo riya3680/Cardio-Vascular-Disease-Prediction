@@ -1,0 +1,7 @@
+[ 2024-04-30 11:51:29,023 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-30 11:51:29,025 ] 187 werkzeug - INFO -  * Debugger PIN: 128-944-936
+[ 2024-04-30 11:51:39,749 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 11:51:39] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-04-30 11:51:39,790 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 11:51:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 11:52:06,766 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 11:52:06] "POST /predict.html HTTP/1.1" 200 -
+[ 2024-04-30 11:52:06,781 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 11:52:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 11:57:09,702 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\src\\pipeline\\predict_pipeline.py', reloading

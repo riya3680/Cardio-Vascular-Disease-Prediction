@@ -1,0 +1,14 @@
+[ 2024-04-30 23:16:00,742 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-30 23:16:00,748 ] 187 werkzeug - INFO -  * Debugger PIN: 128-944-936
+[ 2024-04-30 23:17:03,287 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:17:03] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-30 23:17:03,452 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:17:03] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:17:03,452 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:17:03] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:17:03,509 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:17:03] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:17:03,542 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:17:03] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:18:35,253 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:35] "[35m[1mPOST /predict.html HTTP/1.1[0m" 500 -
+[ 2024-04-30 23:18:35,276 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:35] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:18:35,279 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:35] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:18:35,297 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:35] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:18:35,314 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:35] "[36mGET /predict.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-04-30 23:18:44,179 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:44] "GET /predict.html HTTP/1.1" 200 -
+[ 2024-04-30 23:18:44,193 ] 187 werkzeug - INFO - 127.0.0.1 - - [30/Apr/2024 23:18:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

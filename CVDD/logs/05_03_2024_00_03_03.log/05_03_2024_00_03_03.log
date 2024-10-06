@@ -1,0 +1,24 @@
+[ 2024-05-03 00:03:04,180 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-03 00:03:04,184 ] 187 werkzeug - INFO -  * Debugger PIN: 129-420-716
+[ 2024-05-03 00:03:04,244 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:04] "GET / HTTP/1.1" 200 -
+[ 2024-05-03 00:03:04,315 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:04] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-03 00:03:04,315 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:03:04,528 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:04] "GET / HTTP/1.1" 200 -
+[ 2024-05-03 00:03:04,545 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:03:04,549 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:03:07,100 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:07] "GET /register.html HTTP/1.1" 200 -
+[ 2024-05-03 00:03:07,117 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:03:50,499 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:50] "GET /register.html HTTP/1.1" 200 -
+[ 2024-05-03 00:03:50,510 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:03:58,931 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:58] "[32mPOST /register HTTP/1.1[0m" 302 -
+[ 2024-05-03 00:03:58,938 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:58] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-03 00:03:58,963 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:03:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:07:40,092 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:40] "GET / HTTP/1.1" 200 -
+[ 2024-05-03 00:07:40,329 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:07:40,330 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:07:44,242 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:44] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-03 00:07:44,259 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:07:51,027 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:51] "[32mPOST /index.html HTTP/1.1[0m" 302 -
+[ 2024-05-03 00:07:51,036 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:51] "GET /login.html HTTP/1.1" 200 -
+[ 2024-05-03 00:07:51,052 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/May/2024 00:07:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-03 00:08:06,341 ] 187 werkzeug - INFO -  * Detected change in 'C:\\CVDD\\app.py', reloading
